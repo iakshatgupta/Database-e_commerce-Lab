@@ -5,5 +5,5 @@ a) Identify Problem Statement
 b) Load Required Libraries
 c) Connect to DB using mysql-connector-python package
 d) Create database named e_commerce
-e) Create tables and insert data into tables as specified in the question
+e) Create tables and insert data into tables as specified in the prob statement.
 f) Solved all the sub-problems and wrote SQL queries to meet the objective
